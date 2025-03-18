@@ -56,7 +56,7 @@ let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │ Place       : ʟαнᴏʀᴇ ᴘᴋ
 │ Gender    :  ᴍᴀʟᴇ
 │ Age          : unknown
-│ Phone     : wa.me/2349060509982
+│ Phone     : wa.me/2348078112891
 │ Youtube   : Youtube.com
 │ Status     : ɢᴀᴍᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
